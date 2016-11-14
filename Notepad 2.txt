@@ -30,7 +30,7 @@
           <li>Secure a job in the cyber industry</li>
           <li>Be apart of CyberPatriot</li>
         </ul></li>
-      <li>O
+      <li>
 	</ul>
     
   </body>
