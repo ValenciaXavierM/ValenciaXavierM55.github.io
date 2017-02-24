@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Xavier Valencia's Homepage</title>
+    <style> body {
+                        background-color: Silver;
+                    }
+    </style>
+  </head>
+  <body>
+		<p><a href="file:///C:/Users/599004/Documents/Notepad++/index.html">Home</a>
+		<a href="file:///C:/Users/599004/Documents/Notepad++/portfolio.html">Portfolio</a>
+		<a href="file:///C:/Users/599004/Documents/Notepad++/ProgrammerProfile.html">Programmer Profile</a>
+		<a href="file:///C:/Users/599004/Documents/Notepad++/FavoriteBooks.html">Favorite Books</a></p>
+    <h1><b>Programmer's Profile:</b></h1>
+    <img src="https://pbs.twimg.com/profile_images/765275423349407744/gOyPN-EN_400x400.jpg" alt="Profile Pic"width="175px" height="175px"/>
+    <h3><b>About the programmer</b></h3>
+    <ul>
+      <li>Name:
+        <ul>
+          <li>Xavier Valencia</li>
+        </ul></li>
+      <li>Hobbies:
+        <ul>
+          <li>Playing with dogs</li>
+          <li>Going on social media</li>
+          <li>Talking to friends</li>
+          <li>Coding</li>
+          <li>Wallowing in self pity</li>
+        </ul></li>
+      <li>Why program?:
+        <ul>
+          <li>Learn how to create websites</li>
+          <li>Secure a job in the cyber industry</li>
+          <li>Be apart of CyberPatriot</li>
+        </ul></li>
+      <li>Articles about Xavier:
+        <ul>
+          <li><a href="http://www.thedowneypatriot.com/the-downey-patriot-5/aspire-students-bring-home-awards>Aspire</a></li>
+          <li><a href="https://codehs.com/editor/153972/285414/847/400#">Favorite Books</a></li>
+          <li><a href="https://codehs.com/editor/154723/285414/847/400">Bingo sheet</a></li>
+        </ul></li>
+    </ul>
+  </body>
